@@ -5,16 +5,15 @@
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> Currently</h2></summary>
+                
 - 💬 Ask me about C#,Javascript,Java
 - 👯 I’m looking to collaborate on Software and Web development
 - 💙 I love cinematography, DIY stuff, documentaries, memes, FPL, gaming and other stuff too.
 
+<!--
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
                 width="28" /> My Github Stats</h2> </summary>
-
 <br>
-
-<!--
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=barmao&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=barmao&theme=vue">
