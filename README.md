@@ -4,11 +4,12 @@
 <p align="center">May the force be with you.<br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> Currently</h2></summary>
+                width="28" /> Hello world!</h2></summary>
                 
 - 💬 Ask me about C#,Javascript,Java
-- 👯 I’m looking to collaborate on Software and Web development
-- 💙 I love cinematography, DIY stuff, documentaries, memes, FPL, gaming and other stuff too.
+- 👯 Looking to collaborate on Software and Web development projects
+- 💙 I love DIY stuff, documentaries, memes, FPL, gaming and other stuff too.
+- 📫 You can reach me through **bryanbarmao@gmail.com**
 
 <!--
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
