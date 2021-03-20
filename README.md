@@ -7,8 +7,9 @@
                 width="28" /> Hello world!</h2></summary>
                 
 - 💬 Ask me about C#,Javascript,Java
+- 🌱 I’m currently learning **ReactJS**,**Docker**,**Azure**
 - 👯 Looking to collaborate on Software and Web development projects
-- 💙 I love DIY stuff, documentaries, memes, FPL, gaming and other stuff too.
+<!-- 💙 I love DIY stuff, documentaries, memes, FPL, gaming and other stuff too.-->
 - 📫 You can reach me through **bryanbarmao@gmail.com**
 
 <!--
