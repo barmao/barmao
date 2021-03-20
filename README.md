@@ -6,11 +6,11 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> Hello world!</h2></summary>
                 
-- 💬 Ask me about C#,Javascript,Java
+- 💬 Ask me about C#,Javascript,Java.
 - 🌱 I’m currently learning **ReactJS**,**Docker**,**Azure**
-- 👯 Looking to collaborate on Software and Web development projects
-<!-- 💙 I love DIY stuff, documentaries, memes, FPL, gaming and other stuff too.-->
+- 👯 Looking to collaborate on Software and Web development projects.
 - 📫 You can reach me through **bryanbarmao@gmail.com**
+<!-- 💙 I love DIY stuff, documentaries, memes, FPL, gaming and other stuff too.-->
 
 <!--
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
