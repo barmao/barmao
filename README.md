@@ -6,7 +6,7 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> Hello world!</h2></summary>
                 
-- 💬 Ask me about C#,.NET,Javascript,Java,NodeJS
+- 💬 Ask me about C#,.NET,Java,Javascript,NodeJS
 - 🌱 I’m currently learning React,PostgreSQL,MongoDB,Docker,Azure
 - 👯 Looking to collaborate on software development projects
 - 📫 You can reach me through **bryanbarmao@gmail.com**
