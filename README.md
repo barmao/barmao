@@ -14,7 +14,7 @@ Let's connect and build something exceptional!
 
 ---
 
-## 🧠 Backend, Frontend & Programming Languages
+## 🧠 Programming Languages
 
 <p>
   <!-- Backend -->
