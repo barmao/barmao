@@ -78,7 +78,7 @@ Let's connect and build something exceptional!
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/barmao/)
-- 🧑‍💻 Portfolio: coming soon
+- 🧑‍💻 [Portfolio](https://barmao.github.io/)
 - 📧 [Email](mailto:bryanbarmao@gmail.com)
 
 ---
