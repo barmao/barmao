@@ -4,13 +4,13 @@
 
 ## 💡 About Me
 
-I’m a software engineer passionate about building scalable, high-performance solutions. My work revolves around:
+I'm a software engineer passionate about building scalable, high-performance solutions. My work revolves around:
 
 - Designing **modular, maintainable system architectures**
 - Optimizing **performance and scalability**
 - Solving complex business challenges with elegant code
 
-Let’s connect and build something exceptional!
+Let's connect and build something exceptional!
 
 ---
 
@@ -18,17 +18,17 @@ Let’s connect and build something exceptional!
 
 <p>
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#"/>
   
   <!-- Frontend & Fullstack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nextdotjs.svg" width="40" height="40" alt="nextjs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" width="40" height="40" alt="tailwindcss"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" title="Bash"/>
 </p>
 
 ---
@@ -36,13 +36,13 @@ Let’s connect and build something exceptional!
 ## 🗄️ Databases & Storage
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="mongodb"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/microsoftsqlserver.svg" width="40" height="40" alt="mssql"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/apachecouchdb.svg" width="40" height="40" alt="couchdb"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/redis.svg" width="40" height="40" alt="redis"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/apachecassandra.svg" width="40" height="40" alt="cassandra"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="Microsoft SQL Server" title="Microsoft SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" width="40" height="40" alt="CouchDB" title="CouchDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="40" height="40" alt="Apache Cassandra" title="Apache Cassandra"/>
 </p>
 
 ---
@@ -50,19 +50,18 @@ Let’s connect and build something exceptional!
 ## 🧰 Tools & Infrastructure
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/apachekafka.svg" width="40" height="40" alt="kafka"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/rabbitmq.svg" width="40" height="40" alt="rabbitmq"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/amazonaws.svg" width="40" height="40" alt="aws"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/microsoftazure.svg" width="40" height="40" alt="azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="nginx"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/traefikmesh.svg" width="40" height="40" alt="traefik"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/prometheus.svg" width="40" height="40" alt="prometheus"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/grafana.svg" width="40" height="40" alt="grafana"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/elasticsearch.svg" width="40" height="40" alt="elasticsearch"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/kibana.svg" width="40" height="40" alt="kibana"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/sentry.svg" width="40" height="40" alt="sentry"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Apache Kafka" title="Apache Kafka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ" title="RabbitMQ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="Amazon Web Services" title="Amazon Web Services"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Microsoft Azure" title="Microsoft Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" title="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" title="Prometheus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" title="Grafana"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch" title="Elasticsearch"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="Kibana" title="Kibana"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" width="40" height="40" alt="Sentry" title="Sentry"/>
 </p>
 
 ---
@@ -76,7 +75,7 @@ Let’s connect and build something exceptional!
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/barmao/)
 - 🧑‍💻 Portfolio: coming soon
